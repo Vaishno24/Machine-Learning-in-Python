@@ -9,3 +9,5 @@ The ML algorithms used are:
 3) Logistic Regression Classifier
 4) Guassian NaiveBayes Classifier
 5) SVM Classifier
+
+You can also see the Analysis of performance of above implemented algorithms and the presentation document explains the concept part behind these algorithms.
