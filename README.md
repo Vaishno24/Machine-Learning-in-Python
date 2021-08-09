@@ -10,4 +10,4 @@ The ML algorithms used are:
 4) Guassian NaiveBayes Classifier
 5) SVM Classifier
 
-You can also see the Analysis of performance of above implemented algorithms and the presentation document explains the concept part behind these algorithms.
+You can also see the Analysis depicting the difference between performances of above implemented algorithms and the presentation document explains the concept part behind these algorithms.
